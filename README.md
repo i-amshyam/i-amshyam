@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @i-amshyam
-- 👀 I’m interested in linux,networking and crytography
-- 🌱 I’m currently learning networking (not sure about that)
+- 👀 I’m interested in linux,ctf's and crytography
 
 <!---
 i-amshyam/i-amshyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
